@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "49d3b2d5-c219-453c-9a8a-43078839629f",
+      "tittle": "Somebody said ...",
+      "author": "Somebody who listened"
+    },
+    {
+      "id": "43020b70-80c8-4b33-9dd2-6f560043fcfc",
+      "tittle": "Rabit kills woman with tea spoon",
+      "author": "Rabits cousin"
+    },
+    {
+      "id": "8bf0f0d5-cc3e-4feb-a1ed-541db5302d5b",
+      "tittle": "Woman Kills Rabit For Prona",
+      "author": "Their maiden"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "id": "f3f0a05a-5955-4b9b-9fbf-64e5fecd2c7e"
+  }
+}
